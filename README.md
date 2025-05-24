@@ -5,4 +5,4 @@ sudo chmod +x upload.sh
 ./upload.sh
 ```
 
-[img](img.jpg)
+![image](img.jpg)
